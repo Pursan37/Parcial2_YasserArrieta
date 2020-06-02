@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Parcial_2_YasserArrieta</string>
+
+    <string-array name="spinner_items">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+    </string-array>
+
+
+    <string-array name="spinner_items1">
+
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+
+    </string-array>
+    <string name="txt_registro1">Nombre</string>
+    <string name="txt_registro2">Cedula</string>
+    <string name="txt_registro3">Estrato</string>
+    <string name="txt_registro4">Nivel educativo</string>
+    <string name="txt_registro5">Salario</string>
+    <string name="btnListar">Listar Contactos</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="edi_telefono">Type somthing here</string>
+    <string name="edi_nombre">Type somthing here</string>
+
+    <string name="aux1">Nombre:</string>
+    <string name="aux2">Cedula:</string>
+    <string name="aux3">Nivel academico:</string>
+    <string name="aux4">Salario: </string>
+    <string name="aux5">Estrato: </string>
+
+
+
+
+
+</resources>
